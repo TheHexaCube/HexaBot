@@ -1,6 +1,22 @@
 # Introduction
 
-## A robust CoreXY based 3D printer, with 3-screw z-leveling and future support for multiple tools.
+## HexaBot: A universal 3D Printing platform suited for high speeds and toolchanging. 
 
-These pages serve to document the 3D printer I've put lots of time and care into designing and building. What goes where and why, and what you'd need to do if you'd want to replicate it.
+Foreword HexaBot was created Ferbuary 2019 in an effort to build a high quality printer which can handle different applications in the future such as toolchanging and laser engraving. Design requirements were high rigidty and performance while keeping complexity and price as low as reasonably possible. 
+
+{% hint style="danger" %}
+This project is WIP, expect to spend time tinkering. This is not for beginners!
+{% endhint %}
+
+![CAD Overview of the printer](.gitbook/assets/hexabot.png)
+
+
+
+
+
+
+
+These pages serve as documentation for the 3D Printer.
+
+Still under construction. 
 
