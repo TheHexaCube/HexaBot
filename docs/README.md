@@ -8,7 +8,7 @@
 This project is WIP, expect to spend time tinkering.
 {% endhint %}
 
-## Specs:
+## Specs
 
 * CoreXY Kinematic
 * Sturdy metal frame rigid enough for high speeds and accurate prints
