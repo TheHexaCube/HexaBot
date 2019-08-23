@@ -6,6 +6,12 @@ description: >-
 
 # Documentation
 
+{% hint style="warning" %}
+Please note that currently, you at least need a drill press to build this printer. Please see [Required Tools](required-tools.md) for further info.
+{% endhint %}
+
+
+
 Directly skip to the chapters: 
 
 {% page-ref page="part-1-the-frame.md" %}
