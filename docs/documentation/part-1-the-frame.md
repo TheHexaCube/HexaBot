@@ -6,6 +6,8 @@ Aluminum frames are easily available and cheap while very rigid, which is the re
 
 Sources for aluminum extrusions are:
 
+{% embed url="https://motedis.com" %}
+
 
 
 
