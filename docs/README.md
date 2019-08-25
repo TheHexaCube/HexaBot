@@ -20,3 +20,7 @@ This project is WIP, expect to spend time tinkering.
 
 
 
+{% hint style="info" %}
+For any questions, you can find me on the \#reprap IRC or send me a mail under danikinader@gmail.com
+{% endhint %}
+
