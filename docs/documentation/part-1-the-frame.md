@@ -20,7 +20,7 @@ Sources for aluminum extrusions are:
 
 [Misumi UK](https://uk.misumi-ec.com) for extrusions in Europe, get either 'HFS5' or 'NFS5'. This extrusion requires a M5 tap.
 
-Check this BOM for the exact ordering code and lengths. 
+Check this [BOM](https://docs.google.com/spreadsheets/d/10OMYiNL1npaELdXS3KsRAZbNEO0kOcZfDxgyONVbO0Y/edit?usp=sharing) for the exact ordering code and lengths. 
 
 
 
